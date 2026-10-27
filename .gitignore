@@ -1,0 +1,23 @@
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Cache e arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache do pytest
+.pytest_cache/
+
+# Arquivos de cobertura de testes
+.coverage
+htmlcov/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
